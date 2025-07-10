@@ -1,0 +1,2 @@
+# Sonar-Rock-vs-Mine-Prediction-using-Support-vector-machine-ML--project
+The sonar data is used to train model for prediction of rock vs mine using support vector machines,Same  dataset was used to predict through logistic regression where we had training accuracy as 83 percent  and test as 76 percent, while comparing it with SVC which gives us 79 percent  training accuracy while test accuracy was as high as 93 percent.
